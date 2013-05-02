@@ -1,0 +1,6 @@
+To make and install the library, cd to this directory, su root,
+and 'make install'. This will install the lib and header file in
+/usr/local/lib and /usr/local/include.
+
+To install to other directories, see the Makefile.
+
